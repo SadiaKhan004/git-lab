@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 I am am to passing the exam
+=======
 This text was added from the branch named feature
 New Content added by aliya
